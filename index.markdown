@@ -6,7 +6,7 @@ layout: default
 <div class="split-hero">
   <div class="hero-content">
     <span class="tag">Engineering Frameworks</span>
-    <h1>Architecting DevOps Infrastructure</h1>
+    <h1>Architecting Platform Infrastructure</h1>
     <p>High-performance local cloud tooling, reproducible environments, and deterministic agentic systems mapped straight to macOS. No vibe-coding. Just operations.</p>
     
     <div style="display: flex; gap: 1rem; margin-top: 2rem;">

@@ -21,7 +21,7 @@ permalink: /about/
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 4rem; align-items: center;">
       <div>
         <h2>Our Mission</h2>
-        <p>At Vitruvian Software, we believe in deterministic, fast, and elegantly engineered solutions. Our mission is to build tools and frameworks that solve deeply technical problems without the bloat, making complex DevOps and AI technologies accessible and reproducible.</p>
+        <p>At Vitruvian Software, we believe in deterministic, fast, and elegantly engineered solutions. Our mission is to build tools and frameworks that solve deeply technical problems without the bloat, making complex Platform and AI technologies accessible and reproducible.</p>
         
         <p>We specialize in three core areas:</p>
         <ul style="list-style: none; padding: 0; margin: 1rem 0;">
@@ -29,7 +29,7 @@ permalink: /about/
             <strong style="color: var(--primary-text);">🤖 Agentic Intelligence:</strong> Bridging the gap between humans and LLMs via native operating system bridging.
           </li>
           <li style="margin-bottom: 1rem; position: relative;">
-            <strong style="color: var(--primary-text);">⚙️ DevOps:</strong> Streamlining local development workflows and declarative infrastructure.
+            <strong style="color: var(--primary-text);">⚙️ Platform Engineering:</strong> Streamlining local development workflows and declarative infrastructure.
           </li>
           <li style="margin-bottom: 1rem; position: relative;">
             <strong style="color: var(--primary-text);">☁️ Kubernetes:</strong> Creating scalable, local-first testing environments for cloud-native applications.

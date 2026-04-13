@@ -9,7 +9,7 @@ permalink: /blog/
   <div class="hero-content">
     <span class="tag">Engineering Log</span>
     <h1>Our Blog</h1>
-    <p>Insights, tutorials, and updates from the Vitruvian Software team on agentic tooling, DevOps, and open-source development.</p>
+    <p>Insights, tutorials, and updates from the Vitruvian Software team on agentic tooling, Platform architecture, and open-source development.</p>
   </div>
   <div class="hero-visual">
     <img src="/images/blog_hero.png" alt="Code Ledger Data Stream Graphic">
@@ -79,8 +79,8 @@ permalink: /blog/
       </div>
       
       <div class="card">
-        <h3>⚙️ DevOps Insights</h3>
-        <p>Practical DevOps tutorials, automation strategies with DevX, and reproducible build pipelines.</p>
+        <h3>⚙️ Platform Insights</h3>
+        <p>Practical Platform tutorials, automation strategies with DevX, and reproducible build pipelines.</p>
       </div>
       
       <div class="card">
