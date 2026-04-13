@@ -4,10 +4,15 @@ title: Tech Stack
 permalink: /tech-stack/
 ---
 
-<div class="hero" style="padding: 4rem 0;">
-  <div class="wrapper">
+<!-- Split Hero Section -->
+<div class="split-hero">
+  <div class="hero-content">
+    <span class="tag">Architecture</span>
     <h1>Our Technology Stack</h1>
     <p>The cutting-edge technologies, languages, and frameworks that power our open-source solutions and drive innovation in AI, DevOps, and cloud computing.</p>
+  </div>
+  <div class="hero-visual">
+    <img src="/images/tech_stack_hero.png" alt="Server Hardware Logic Schematic">
   </div>
 </div>
 

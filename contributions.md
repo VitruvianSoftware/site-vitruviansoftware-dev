@@ -4,10 +4,15 @@ title: Contributions
 permalink: /contributions/
 ---
 
-<div class="hero" style="padding: 4rem 0;">
-  <div class="wrapper">
+<!-- Split Hero Section -->
+<div class="split-hero">
+  <div class="hero-content">
+    <span class="tag">Global Impact</span>
     <h1>Our Contributions</h1>
     <p>How Vitruvian Software gives back through open-source tooling, rigorous infrastructure definitions, and community support.</p>
+  </div>
+  <div class="hero-visual">
+    <img src="/images/contributions_hero.png" alt="Global Node Network Diagram">
   </div>
 </div>
 

@@ -4,10 +4,15 @@ title: About
 permalink: /about/
 ---
 
-<div class="hero" style="padding: 4rem 0;">
-  <div class="wrapper">
+<!-- Split Hero Section -->
+<div class="split-hero">
+  <div class="hero-content">
+    <span class="tag">Organization</span>
     <h1>About Vitruvian Software</h1>
     <p>A passionate team dedicated to creating rigorous, system-level open-source solutions that empower developers and infrastructure engineers worldwide.</p>
+  </div>
+  <div class="hero-visual">
+    <img src="/images/about_hero.png" alt="Abstract Monolithic Data Core">
   </div>
 </div>
 

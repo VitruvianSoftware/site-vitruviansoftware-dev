@@ -4,10 +4,15 @@ title: Blog
 permalink: /blog/
 ---
 
-<div class="hero" style="padding: 4rem 0;">
-  <div class="wrapper">
+<!-- Split Hero Section -->
+<div class="split-hero">
+  <div class="hero-content">
+    <span class="tag">Engineering Log</span>
     <h1>Our Blog</h1>
     <p>Insights, tutorials, and updates from the Vitruvian Software team on agentic tooling, DevOps, and open-source development.</p>
+  </div>
+  <div class="hero-visual">
+    <img src="/images/blog_hero.png" alt="Code Ledger Data Stream Graphic">
   </div>
 </div>
 
