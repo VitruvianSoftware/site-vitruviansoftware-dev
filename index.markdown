@@ -46,7 +46,7 @@ layout: default
             Connects securely via remote WebSocket gateways to execute infrastructure deployments and terminal commands without hallucinations.
           </p>
           <div class="mt-2">
-            <a href="https://github.com/VitruvianSoftware/nexus-agent" class="button btn-accent">View Documentation</a>
+            <a href="https://github.com/VitruvianSoftware/nexus-agent" class="button btn-accent">Explore Project</a>
           </div>
         </div>
         <div class="bento-number">01</div>
@@ -61,7 +61,7 @@ layout: default
             Standardize your repository initialization. Eradicate configuration drift across teams through docker-tethered sandboxes and rigorous git-flow hooks.
           </p>
           <div class="mt-2">
-            <a href="https://github.com/VitruvianSoftware/devx" class="button">brew install devx</a>
+            <a href="https://github.com/VitruvianSoftware/devx" class="button">Explore Project</a>
           </div>
         </div>
         <div class="bento-number">02</div>
@@ -76,7 +76,7 @@ layout: default
             Automated provisioning protocol for multi-node Kubernetes (K3s) edge clusters over bare metal via Lima VZ. Deterministic container orchestration locally.
           </p>
           <div style="margin-top: clamp(2rem, 10vh, 5rem);">
-            <a href="https://github.com/VitruvianSoftware/homelab" class="button">Inspect Matrix</a>
+            <a href="https://github.com/VitruvianSoftware/homelab" class="button">Explore Project</a>
           </div>
         </div>
       </div>
