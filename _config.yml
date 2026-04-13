@@ -27,7 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vitruviansoftware.dev" # the base hostname & protocol for your site, e.g. http://example.com
 avatar: "/images/logo-dark.jpeg" # Site logo
 twitter_username: ipv1337 # Placeholder, replace if actual exists
-github_username:  BlueCentre # Placeholder, replace with actual org/user
+github_username: VitruvianSoftware
 
 # Build settings
 # theme: minima  # Disabled to use custom dark theme

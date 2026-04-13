@@ -40,8 +40,8 @@ layout: default
             
             <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
               <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-                <a href="{{ latest_post.url | relative_url }}" class="button">Read Full Article</a>
-                <a href="/blog/" class="button" style="background: var(--gradient-secondary);">View All Posts</a>
+                <a href="{{ latest_post.url | relative_url }}" class="button btn-accent">Read Full Article</a>
+                <a href="/blog/" class="button">View All Posts</a>
               </div>
               {%- if latest_post.author -%}
                 <span style="color: var(--text-muted); font-size: 0.9rem;">by {{ latest_post.author }}</span>

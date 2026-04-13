@@ -139,7 +139,7 @@ Would you like me to implement these improvements?
 ```bash
 # Use trunk version with uvx (recommended)
 export GOOGLE_API_KEY=YOUR_AI_STUDIO_API_TOKEN
-uvx --refresh --from git+https://github.com/BlueCentre/adk-agents.git@main agent run agents.devops.agent
+uvx --refresh --from git+https://github.com/VitruvianSoftware/adk-agents.git@main agent run agents.devops.agent
 
 # Install with uv
 uv pip install adk-agents
@@ -191,12 +191,12 @@ We're constantly improving ADK Agents based on developer feedback:
 ADK Agents is **open source and free** to use. Try it today and experience what it's like to have an AI-powered DevOps companion that truly understands your code and workflow.
 
 **🔗 Get Started:**
-- [GitHub Repository](https://github.com/BlueCentre/adk-agents) - Star us if you find it useful!
+- [GitHub Repository](https://github.com/VitruvianSoftware/adk-agents) - Star us if you find it useful!
 - [Documentation](https://adk-agents.vitruviansoftware.dev/) - Complete setup guides and examples
 - [Community Discord](#) - Join other developers using ADK Agents
 
 **Found this helpful? Share it with your team and follow us for more updates:**
-- [GitHub](https://github.com/BlueCentre) 
+- [GitHub](https://github.com/VitruvianSoftware) 
 - [Twitter](https://twitter.com/ipv1337)
 
 ---
