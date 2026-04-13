@@ -9,7 +9,7 @@ permalink: /tech-stack/
   <div class="hero-content">
     <span class="tag">Architecture</span>
     <h1>Our Technology Stack</h1>
-    <p>The cutting-edge technologies, languages, and frameworks that power our open-source solutions and drive innovation in AI, DevOps, and cloud computing.</p>
+    <p>The cutting-edge technologies, languages, and frameworks that power our open-source solutions and drive innovation in AI, Platform engineering, and cloud computing.</p>
   </div>
   <div class="hero-visual">
     <img src="/images/tech_stack_hero.png" alt="Server Hardware Logic Schematic">
@@ -50,7 +50,7 @@ permalink: /tech-stack/
 
       <div class="card">
         <h3>🐚 Shell & Bash</h3>
-        <p><strong>Primary Use:</strong> Automation, DevOps workflows</p>
+        <p><strong>Primary Use:</strong> Automation, Platform workflows</p>
         <p>Stringent shell scripting for initialization workflows and system-level configuration.</p>
       </div>
     </div>
