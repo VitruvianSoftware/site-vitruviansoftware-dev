@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', function() {
     left: 0;
     width: 0%;
     height: 3px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: var(--primary-accent);
     z-index: 999;
     transition: width 0.1s ease;
   `;
@@ -219,7 +219,7 @@ document.addEventListener('DOMContentLoaded', function() {
     • Vanilla JavaScript
     • Love for open source ❤️
     
-    Check out our projects: https://github.com/BlueCentre
+    Check out our projects: https://github.com/VitruvianSoftware
     
     Interested in contributing? We'd love to have you!
   `);
