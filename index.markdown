@@ -58,10 +58,8 @@ layout: home
         </ul>
       </div>
       <div class="text-center">
-        <!-- Optional right panel content, graphic or code snippet -->
-        <pre><code class="language-bash">$ brew install vitruviansoftware/tap/devx
-$ devx init
-$ nexus-agent start</code></pre>
+        <img src="/images/tui-mode.png" alt="Command Line Interface" style="max-width: 100%; border-radius: var(--border-radius-md); border: 1px solid var(--border-color); box-shadow: var(--shadow-lg);">
+        <p style="font-size: 0.9rem; margin-top: 1rem; color: var(--secondary-text);">Architecting systems where logic meets operations.</p>
       </div>
     </div>
   </div>
