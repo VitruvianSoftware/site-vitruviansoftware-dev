@@ -4,10 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
-<div class="hero" style="padding: 4rem 0;">
-  <div class="wrapper">
+<!-- Split Hero Section -->
+<div class="split-hero">
+  <div class="hero-content">
+    <span class="tag">Open Source</span>
     <h1>Our Open Source Ecosystem</h1>
     <p>Explore our comprehensive collection of open-source tools and frameworks designed to empower developers and infrastructure engineers in AI, DevOps, and cloud environments.</p>
+  </div>
+  <div class="hero-visual">
+    <img src="/images/projects_hero.png" alt="Brutalist Matrix Diagram">
   </div>
 </div>
 
