@@ -68,7 +68,7 @@ layout: default
       </div>
 
       <!-- Homelab K3s -->
-      <div class="bento-cell bento-tall dark">
+      <div class="bento-cell bento-square dark">
         <div class="bento-content">
           <span class="tag">Infrastructure</span>
           <h3>Homelab</h3>
@@ -96,13 +96,13 @@ layout: default
       </div>
 
       <!-- Homebrew Tap -->
-      <div class="bento-cell bento-wide dark" style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap;">
-        <div style="flex: 1; min-width: 300px;">
+      <div class="bento-cell bento-square dark" style="display: flex; flex-direction: column; justify-content: flex-start; gap: 1rem;">
+        <div>
           <span class="tag">Distribution</span>
           <h3>Homebrew Central Tap</h3>
           <p>We maintain a stringent release automation protocol using GoReleaser to ship verified binaries instantly. Zero manual releases. Zero unauthorized patches.</p>
         </div>
-        <div style="flex: 1; min-width: 300px;">
+        <div style="margin-top: auto;">
           <pre style="margin: 0;"><code>$ brew tap vi.../tap
 $ brew install devx
 $ brew install homelab</code></pre>
