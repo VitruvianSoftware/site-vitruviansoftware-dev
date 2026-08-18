@@ -1,0 +1,23 @@
+# Backstage catalog entity for this repository.
+#
+# Declared here rather than in vitruvian-core so this repo owns its own
+# metadata: vitruvian-core's root catalog-info.yaml references it through a
+# Location, the same way it references every other external repo. Editing the
+# description or owner is a change here, not there.
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: site-vitruviansoftware-dev
+  title: Vitruvian Software Open Source Site
+  description: Jekyll site published to GitHub Pages at vitruviansoftware.dev — the public open-source presence for VitruvianSoftware
+  annotations:
+    github.com/project-slug: VitruvianSoftware/site-vitruviansoftware-dev
+  links:
+    - url: https://vitruviansoftware.dev/
+      title: Live site
+      icon: web
+spec:
+  type: website
+  lifecycle: production
+  owner: platform-team
+  system: vitruvian-core
