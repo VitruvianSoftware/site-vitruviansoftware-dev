@@ -3,7 +3,8 @@ layout: null
 permalink: /downloads/latest/vitruvian-desktop.dmg
 sitemap: false
 ---
-{%- assign app = site.data.downloads.categories[0].items | where: "id", "vitruvian-desktop" | first -%}
+{%- assign desktop = site.data.downloads.categories | where: "id", "desktop" | first -%}
+{%- assign app = desktop.items | where: "id", "vitruvian-desktop" | first -%}
 {%- assign dl = app.downloads | first -%}
 <!DOCTYPE html>
 <html lang="en">
