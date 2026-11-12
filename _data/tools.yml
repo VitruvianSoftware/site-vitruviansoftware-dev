@@ -1,6 +1,6 @@
 # Written by tools/sync-site-tools from catalog/tools.json. Do not edit:
 #   bazel run //tools/sync-site-tools:sync
-generated: "2026-11-12T10:43:03Z"
+generated: "2026-11-12T18:38:01Z"
 public_key: "ysvqcMifelrOyxEx01sOS4B5VN585nBLKkdaaT0xyWY="
 tools:
   - id: "dev.vitruvian.reference"
@@ -65,15 +65,15 @@ tools:
       - "Show messages and play the alert sound"
       - "Write to the clipboard"
       - "Open links"
-  - id: "dev.vitruvian.nexus-agent"
-    name: "Nexus Agent"
+  - id: "dev.vitruvian.code"
+    name: "Code"
     publisher: "VitruvianSoftware"
     summary: "Run your Telegram bot for the Antigravity agent and ask the agent from anywhere with a Quick Prompt"
-    version: "1.32.7"
-    source: "https://github.com/VitruvianSoftware/nexus-agent"
-    download: "https://github.com/VitruvianSoftware/nexus-agent/releases/download/v1.32.7/nexus-agent-tool-1.32.7.zip"
-    size: "6.9 MB"
-    sha256: "aa3305422ebe3057299047f78bb0e588bb3d89b63aaedfe93a5c821f6c40ff81"
+    version: "1.35.0"
+    source: "https://github.com/VitruvianSoftware/vitruvian-code"
+    download: "https://github.com/VitruvianSoftware/vitruvian-code/releases/download/v1.35.0/vitruvian-code-tool-1.35.0.zip"
+    size: "7.3 MB"
+    sha256: "1e3282898f797a553290e3e932d577f682e10b32518ccefd99502e5c65e7dc70"
     uses:
       - "Show messages and play the alert sound"
       - "Save its own settings"
